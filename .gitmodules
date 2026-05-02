@@ -1,0 +1,9 @@
+[submodule "ACTIVIDAD-A-B"]
+	path = ACTIVIDAD-A-B
+	url = https://github.com/Seb920/Laboratorio06-ACTIVIDAD-A-B.git
+[submodule "ACTIVIDAD-C"]
+	path = ACTIVIDAD-C
+	url = https://github.com/Seb920/Laboratorio-6-Actividad-C.git
+[submodule "EJERCICIO-1"]
+	path = EJERCICIO-1
+	url = https://github.com/Seb920/Ejercicio.git
